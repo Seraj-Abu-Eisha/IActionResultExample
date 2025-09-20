@@ -8,28 +8,23 @@ namespace IActionResultExample.Controllers
         public IActionResult Index()
         {
             if (!Request.Query.ContainsKey("bookid")) {
-                Response.StatusCode = 400;
-                return Content("book id is not supplised"); 
+                return BadRequest("book id is not supplised"); 
             }
             if (string.IsNullOrEmpty(Convert.ToString(Request.Query["bookid"])))
             {
-                Response.StatusCode = 400;
-                return Content("book can't be null or empty");
+                return BadRequest("book can't be null or empty");            
             }
             int bookId = Convert.ToInt32
             (ControllerContext.HttpContext.Request.Query["bookid"]);
-            if (bookId >= 0 ) {
-                Response.StatusCode = 400;
-                Content("book id can't be less then zero"); 
+            if (bookId <= 0 ) {
+                return BadRequest("book id can't be less then zero");
             }
-            if (bookId < 0 ) {
-                Response.StatusCode = 400;
-                return Content("book id can't be more then thousnds"); 
+            if (bookId > 1000 ) {
+                return NotFound("book id can't be more then thousnds");
             }
             if (Convert.ToBoolean(Request.Query["isloggedin"]) == false)
             {
-                Response.StatusCode = 401;
-                return Content("user must be authenticated");
+                return Unauthorized("user must be authenticated");
             }
             return File("/sample.pdf", "application/pdf");
 

@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Working\\source\\repos\\IActionResultExample\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{606C6D19-8BA8-4920-A463-26C645A5D6C3}|IActionResultExample\\IActionResultExample.csproj|c:\\users\\working\\source\\repos\\iactionresultexample\\iactionresultexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{606C6D19-8BA8-4920-A463-26C645A5D6C3}|IActionResultExample\\IActionResultExample.csproj|solutionrelative:iactionresultexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{606C6D19-8BA8-4920-A463-26C645A5D6C3}|IActionResultExample\\IActionResultExample.csproj|c:\\users\\working\\source\\repos\\iactionresultexample\\iactionresultexample\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{606C6D19-8BA8-4920-A463-26C645A5D6C3}|IActionResultExample\\IActionResultExample.csproj|solutionrelative:iactionresultexample\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{606C6D19-8BA8-4920-A463-26C645A5D6C3}|IActionResultExample\\IActionResultExample.csproj|c:\\users\\working\\source\\repos\\iactionresultexample\\iactionresultexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{606C6D19-8BA8-4920-A463-26C645A5D6C3}|IActionResultExample\\IActionResultExample.csproj|solutionrelative:iactionresultexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,24 +18,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\Working\\source\\repos\\IActionResultExample\\IActionResultExample\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "IActionResultExample\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\Working\\source\\repos\\IActionResultExample\\IActionResultExample\\Controllers\\HomeController.cs",
               "RelativeToolTip": "IActionResultExample\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAswCYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-19T12:44:47.316Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Working\\source\\repos\\IActionResultExample\\IActionResultExample\\Program.cs",
               "RelativeDocumentMoniker": "IActionResultExample\\Program.cs",
