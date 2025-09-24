@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Working\\source\\repos\\IActionResultExample\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{606C6D19-8BA8-4920-A463-26C645A5D6C3}|IActionResultExample\\IActionResultExample.csproj|c:\\users\\working\\source\\repos\\iactionresultexample\\iactionresultexample\\controllers\\storecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{606C6D19-8BA8-4920-A463-26C645A5D6C3}|IActionResultExample\\IActionResultExample.csproj|solutionrelative:iactionresultexample\\controllers\\storecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{606C6D19-8BA8-4920-A463-26C645A5D6C3}|IActionResultExample\\IActionResultExample.csproj|c:\\users\\working\\source\\repos\\iactionresultexample\\iactionresultexample\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{606C6D19-8BA8-4920-A463-26C645A5D6C3}|IActionResultExample\\IActionResultExample.csproj|solutionrelative:iactionresultexample\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -23,6 +27,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "StoreController.cs",
+              "DocumentMoniker": "C:\\Users\\Working\\source\\repos\\IActionResultExample\\IActionResultExample\\Controllers\\StoreController.cs",
+              "RelativeDocumentMoniker": "IActionResultExample\\Controllers\\StoreController.cs",
+              "ToolTip": "C:\\Users\\Working\\source\\repos\\IActionResultExample\\IActionResultExample\\Controllers\\StoreController.cs",
+              "RelativeToolTip": "IActionResultExample\\Controllers\\StoreController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T18:28:26.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\Working\\source\\repos\\IActionResultExample\\IActionResultExample\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "IActionResultExample\\Controllers\\HomeController.cs",
@@ -35,7 +52,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Working\\source\\repos\\IActionResultExample\\IActionResultExample\\Program.cs",
               "RelativeDocumentMoniker": "IActionResultExample\\Program.cs",
