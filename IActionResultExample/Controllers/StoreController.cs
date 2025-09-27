@@ -7,7 +7,7 @@ namespace IActionResultExample.Controllers
         [Route("store/books")]
         public IActionResult Books()
         {
-            return View();
+            return Content("<h1>book store</h1>", "text/html");
         }
     }
 }

@@ -26,7 +26,10 @@ namespace IActionResultExample.Controllers
             {
                 return Unauthorized("user must be authenticated");
             }
-            return new RedirectToActionResult("books","store", new {});
+            /*return new RedirectToActionResult("books","store", new {});*/
+            //302 - found
+            return new RedirectToActionResult("books", "store", new { }, true);
+            //301 - move permanetly
 
         }
     }
