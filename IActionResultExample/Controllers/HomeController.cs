@@ -26,7 +26,7 @@ namespace IActionResultExample.Controllers
             {
                 return Unauthorized("user must be authenticated");
             }
-            return File("/sample.pdf", "application/pdf");
+            return new RedirectToActionResult("books","store", new {});
 
         }
     }
