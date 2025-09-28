@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Working\\source\\repos\\IActionResultExample\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{606C6D19-8BA8-4920-A463-26C645A5D6C3}|IActionResultExample\\IActionResultExample.csproj|c:\\users\\working\\source\\repos\\iactionresultexample\\iactionresultexample\\controllers\\storecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{606C6D19-8BA8-4920-A463-26C645A5D6C3}|IActionResultExample\\IActionResultExample.csproj|solutionrelative:iactionresultexample\\controllers\\storecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{606C6D19-8BA8-4920-A463-26C645A5D6C3}|IActionResultExample\\IActionResultExample.csproj|c:\\users\\working\\source\\repos\\iactionresultexample\\iactionresultexample\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{606C6D19-8BA8-4920-A463-26C645A5D6C3}|IActionResultExample\\IActionResultExample.csproj|solutionrelative:iactionresultexample\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{606C6D19-8BA8-4920-A463-26C645A5D6C3}|IActionResultExample\\IActionResultExample.csproj|c:\\users\\working\\source\\repos\\iactionresultexample\\iactionresultexample\\controllers\\storecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{606C6D19-8BA8-4920-A463-26C645A5D6C3}|IActionResultExample\\IActionResultExample.csproj|solutionrelative:iactionresultexample\\controllers\\storecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{606C6D19-8BA8-4920-A463-26C645A5D6C3}|IActionResultExample\\IActionResultExample.csproj|c:\\users\\working\\source\\repos\\iactionresultexample\\iactionresultexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,6 +27,20 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Working\\source\\repos\\IActionResultExample\\IActionResultExample\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "IActionResultExample\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Working\\source\\repos\\IActionResultExample\\IActionResultExample\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "IActionResultExample\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T12:44:47.316Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "StoreController.cs",
               "DocumentMoniker": "C:\\Users\\Working\\source\\repos\\IActionResultExample\\IActionResultExample\\Controllers\\StoreController.cs",
               "RelativeDocumentMoniker": "IActionResultExample\\Controllers\\StoreController.cs",
@@ -35,19 +49,8 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-20T18:28:26.844Z",
+              "IsPinned": true,
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Working\\source\\repos\\IActionResultExample\\IActionResultExample\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "IActionResultExample\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Working\\source\\repos\\IActionResultExample\\IActionResultExample\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "IActionResultExample\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-19T12:44:47.316Z"
             },
             {
               "$type": "Document",
@@ -59,7 +62,8 @@
               "RelativeToolTip": "IActionResultExample\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-19T12:42:25.141Z"
+              "WhenOpened": "2025-09-19T12:42:25.141Z",
+              "IsPinned": true
             }
           ]
         }
