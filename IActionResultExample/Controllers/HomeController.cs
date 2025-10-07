@@ -28,8 +28,11 @@ namespace IActionResultExample.Controllers
             }
             /*return new RedirectToActionResult("books","store", new {});*/
             //302 - found
-            return new RedirectToActionResult("books", "store", new { }, true);
+
             //301 - move permanetly
+           /* return new RedirectToActionResult("books", "store", new { id = bookId });*/
+
+            return LocalRedirectPermanent($"store/books/{bookId}");
 
         }
     }
