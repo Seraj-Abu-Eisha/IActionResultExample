@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "IActionResultExample\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\Working\\source\\repos\\IActionResultExample\\IActionResultExample\\Controllers\\HomeController.cs",
               "RelativeToolTip": "IActionResultExample\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwB4AAABLAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBsAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-19T12:44:47.316Z",
               "IsPinned": true,
@@ -46,10 +46,11 @@
               "RelativeDocumentMoniker": "IActionResultExample\\Controllers\\StoreController.cs",
               "ToolTip": "C:\\Users\\Working\\source\\repos\\IActionResultExample\\IActionResultExample\\Controllers\\StoreController.cs",
               "RelativeToolTip": "IActionResultExample\\Controllers\\StoreController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-20T18:28:26.844Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
